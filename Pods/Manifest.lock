@@ -1,0 +1,32 @@
+PODS:
+  - Argo (3.1.0)
+  - Curry (2.3.3)
+  - DZNEmptyDataSet (1.8.1)
+  - Nimble (4.1.0)
+  - Quick (0.9.3)
+  - ReactiveCocoa (4.2.2):
+    - Result (~> 2.0)
+  - Result (2.1.3)
+  - SnapKit (0.21.1)
+
+DEPENDENCIES:
+  - Argo (~> 3.1.0)
+  - Curry (~> 2.3.3)
+  - DZNEmptyDataSet (~> 1.8.1)
+  - Nimble (~> 4.1.0)
+  - Quick (~> 0.9.3)
+  - ReactiveCocoa (~> 4.2.2)
+  - Result (~> 2.1.3)
+  - SnapKit (~> 0.21.1)
+
+SPEC CHECKSUMS:
+  Argo: bb0e94e309d6ceb8fa58910205c8968be101e429
+  Curry: 37223f4467e4802a08b6a414b526dcd919a4a777
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Nimble: 97a0a4cae5124c117115634b2d055d8c97d0af19
+  Quick: 13a2a2b19a5d8e3ed4fd0c36ee46597fd77ebf71
+  ReactiveCocoa: 72263e7ac0770c274617ccd345e01049d0ca38ae
+  Result: 18e1a7597fbcca5923c565b40a25a98afafdee02
+  SnapKit: bbad04cb016c7cead63965f16b00c09318d271ee
+
+COCOAPODS: 0.39.0
